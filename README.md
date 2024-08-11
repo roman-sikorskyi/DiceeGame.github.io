@@ -1,4 +1,4 @@
-**ONLINE DICEE GAME**
+**_ONLINE DICEE GAME_**
 
 **Overview**
 
@@ -8,19 +8,19 @@ providing an enjoyable experience on both desktop and mobile devices.
 
 **Features**
 
-- **Random Dice Rolls**: Roll one or more dice with a single click.
+- **_Random Dice Rolls_**: Roll one or more dice with a single click.
   
-- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **_Responsive Design_**: Optimized for both desktop and mobile devices.
 
-- **Interactive UI**: Enjoy a user-friendly interface with smooth animations.
+- **_Interactive UI_**: Enjoy a user-friendly interface with smooth animations.
   
 **Technologies Used**
 
-- HTML5: For the structure of the website.
+- **_HTML5_**: For the structure of the website.
 
-- CSS3: For styling and responsive design.
+- **_CSS3_**: For styling and responsive design.
 
-- JavaScript(jQuery): For game logic, dice rolling, and user interaction.
+- **J_avaScript(jQuery)_**: For game logic, dice rolling, and user interaction.
 
 **Prerequisites**
 
