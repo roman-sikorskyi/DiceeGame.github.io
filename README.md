@@ -20,6 +20,7 @@ Technologies Used
 **JavaScript(jQuery)**: For game logic, dice rolling, and user interaction.
 
 **Prerequisites**
+
 To run this project locally, you'll need:
 "Ctrl+R" to refresh the game
 A modern web browser (Chrome, Firefox, Edge, etc.)
