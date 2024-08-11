@@ -16,7 +16,9 @@ Interactive UI: Enjoy a user-friendly interface with smooth animations.
 Technologies Used
 
 **HTML5**: For the structure of the website.
+
 **CSS3**: For styling and responsive design.
+
 **JavaScript(jQuery)**: For game logic, dice rolling, and user interaction.
 
 **Prerequisites**
