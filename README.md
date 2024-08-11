@@ -8,12 +8,17 @@ providing an enjoyable experience on both desktop and mobile devices.
 
 **Features**
 
-Random Dice Rolls: Roll one or more dice with a single click.
-Score Tracking: Keep track of your scores and compare them with others.
-Responsive Design: Optimized for both desktop and mobile devices.
-Customizable Settings: Choose the number of dice, dice sides, and more.
-Interactive UI: Enjoy a user-friendly interface with smooth animations.
-Technologies Used
+- Random Dice Rolls: Roll one or more dice with a single click.
+  
+- Score Tracking: Keep track of your scores and compare them with others.
+  
+- Responsive Design: Optimized for both desktop and mobile devices.
+
+- Customizable Settings: Choose the number of dice, dice sides, and more.
+
+- Interactive UI: Enjoy a user-friendly interface with smooth animations.
+  
+**Technologies Used**
 
 **HTML5**: For the structure of the website.
 
