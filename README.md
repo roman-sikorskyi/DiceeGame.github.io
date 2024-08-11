@@ -20,11 +20,11 @@ providing an enjoyable experience on both desktop and mobile devices.
   
 **Technologies Used**
 
-**- HTML5**: For the structure of the website.
+- HTML5: For the structure of the website.
 
-**- CSS3**: For styling and responsive design.
+- CSS3: For styling and responsive design.
 
-**- JavaScript(jQuery)**: For game logic, dice rolling, and user interaction.
+- JavaScript(jQuery): For game logic, dice rolling, and user interaction.
 
 **Prerequisites**
 
